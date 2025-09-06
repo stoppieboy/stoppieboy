@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoppieboy&theme=alduin" alt="stoppieboy" /></a> </p>
 
-- ✨ I have decent experience in **Express.js**
-- ❤️ I'm proficient in **React.js**
+- ✨ I have strong experience in **Node.js** and **Enterprise Java**
+- ❤️ I'm also proficient in **React.js** and **Spring Boot**
 - 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
